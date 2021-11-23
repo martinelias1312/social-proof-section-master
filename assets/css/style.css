@@ -86,11 +86,11 @@ article p {
 }
 
 .rating:nth-child(2) {
-    margin-left: 2em;
+    margin-left: 2.5em;
 }
 
 .rating:nth-child(3) {
-    margin-left: 4em;
+    margin-left: 5em;
 }
 
 /* Aside Stars */
