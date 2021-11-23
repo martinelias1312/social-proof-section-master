@@ -1,0 +1,36 @@
+/* General Settings */
+:root {
+
+    /* Primary Colors */
+    --Very-Dark-Magenta: hsl(300, 43%, 22%);
+    --Soft-Pink: hsl(333, 80%, 67%);
+
+    /* Neutral  Colors */
+    --Dark-Grayish-Magenta: hsl(303, 10%, 53%);
+    --Light-Grayish-Magenta: hsl(300, 24%, 96%);
+    --White: hsl(0, 0%, 100%);
+
+    --Spartan-fontfamily: 'Spartan', sans-serif;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+    font-size: 15px;
+}
+
+/* Page Footer - sginature */
+.attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+
+.attribution a {
+        color: hsl(228, 45%, 44%);
+}
