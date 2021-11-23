@@ -109,6 +109,7 @@ article p {
 .comment {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     background: var(--Very-Dark-Magenta); 
     border-radius: 0.5em;
     padding: 2em;
