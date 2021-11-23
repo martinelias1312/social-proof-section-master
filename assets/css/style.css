@@ -118,6 +118,7 @@ article p {
     margin: 0 2em 0 2em;
 }
 
+/* Photo, name, verified */
 .comment header {
     display: flex;
     flex-direction: row;
@@ -126,11 +127,6 @@ article p {
 
 .comment header, .comment p {
     margin: 0 1em;
-}
-
-.comment p {
-    line-height: 1.7em;
-    font-size: 0.85em;
 }
 
 .photo {
@@ -153,6 +149,8 @@ article p {
 .comment p {
     color: var(--Light-Grayish-Magenta);
     margin-top: 2em;
+    line-height: 1.7em;
+    font-size: 0.85em;
 }
 
 /* Page Footer - signature */
