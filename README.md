@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-flexbox-media-queries-tpvnKmDMY](https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-flexbox-media-queries-tpvnKmDMY)
+- Live Site URL: [https://social-proof-section-master-theta-dun.vercel.app/](https://social-proof-section-master-theta-dun.vercel.app/)
 
 ## My process
 
