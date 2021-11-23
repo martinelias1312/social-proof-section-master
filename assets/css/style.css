@@ -111,17 +111,26 @@ article p {
     flex-direction: column;
     background: var(--Very-Dark-Magenta); 
     border-radius: 0.5em;
-    padding: 1.6em;
+    padding: 2em;
 }
 
 .irene {
-    margin: 0 1em 0 1em;
+    margin: 0 2em 0 2em;
 }
 
 .comment header {
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+.comment header, .comment p {
+    margin: 0 1em;
+}
+
+.comment p {
+    line-height: 1.7em;
+    font-size: 0.85em;
 }
 
 .photo {
@@ -133,10 +142,12 @@ article p {
 .name {
     color: var(--Light-Grayish-Magenta);
     font-weight: 500;
+    margin-bottom: 0.3em;
 }
 
 .text span {
     color: var(--Soft-Pink);
+    font-weight: 300;
 }
 
 .comment p {
