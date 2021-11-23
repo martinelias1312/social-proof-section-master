@@ -37,6 +37,7 @@ body {
 main {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 /* Article h1 + article p */
