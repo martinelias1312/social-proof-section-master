@@ -126,13 +126,13 @@ article p {
 }
 
 /* Photo, name, verified */
-.comment header {
+.comment-header {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.comment header, .comment p {
+.comment-header, .comment p {
     margin: 0 1em;
 }
 
