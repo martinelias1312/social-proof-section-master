@@ -105,6 +105,7 @@ article p {
     display: flex;
     flex-direction: row;
     margin-top: 3em;
+    min-height: 20em;
 }
 
 .comment {
@@ -113,10 +114,15 @@ article p {
     background: var(--Very-Dark-Magenta); 
     border-radius: 0.5em;
     padding: 2em;
+    max-height: 18em;
 }
 
 .irene {
-    margin: 0 2em 0 2em;
+    margin: 1em 2em 0 2em;
+}
+
+.anne {
+    margin-top: 2em;
 }
 
 /* Photo, name, verified */
