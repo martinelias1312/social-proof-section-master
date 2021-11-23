@@ -59,7 +59,7 @@ article p {
     line-height: 1.6em;
 }
 
-/* Aside ratings */
+/* Aside Ratings */
 .ratings {
     display: flex;
     flex-direction: column;
@@ -97,6 +97,51 @@ article p {
 .stars {
     max-width: fit-content;
     margin: 0 2em 0 1em;
+}
+
+/* Comment Card */
+.comment-card {
+    display: flex;
+    flex-direction: row;
+    margin-top: 3em;
+}
+
+.comment {
+    display: flex;
+    flex-direction: column;
+    background: var(--Very-Dark-Magenta); 
+    border-radius: 0.5em;
+    padding: 1.6em;
+}
+
+.irene {
+    margin: 0 1em 0 1em;
+}
+
+.comment header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.photo {
+    border-radius: 50%;
+    margin-right: 1.8em;
+    max-width: 3.2em;
+}
+
+.name {
+    color: var(--Light-Grayish-Magenta);
+    font-weight: 500;
+}
+
+.text span {
+    color: var(--Soft-Pink);
+}
+
+.comment p {
+    color: var(--Light-Grayish-Magenta);
+    margin-top: 2em;
 }
 
 /* Page Footer - signature */
