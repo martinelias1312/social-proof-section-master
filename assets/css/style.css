@@ -29,12 +29,12 @@ body {
     background-size: 37%, 77%;
 }
 
-.wrap {
+main {
     margin: 5% 10%;
 }
 
-/* Main */
-main {
+/* Wrapper */
+.wrap {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -174,7 +174,7 @@ article p {
 
 /* Media Queries */
 @media screen and ( max-width: 1010px ) {
-    main {
+    .wrap {
         flex-direction: column;
     }
 
