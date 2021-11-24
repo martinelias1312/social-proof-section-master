@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![375px Screenshot](assets\img\375px-Frontend-Mentor-Social-proof-section.png)
-![1440px Screenshot](assets\img\1440px-Frontend-Mentor-Social-proof-section.png)
+![assets\img\375px-Frontend-Mentor-Social-proof-section.png](assets\img\375px-Frontend-Mentor-Social-proof-section.png)
+![assets\img\1440px-Frontend-Mentor-Social-proof-section.png](assets\img\1440px-Frontend-Mentor-Social-proof-section.png)
 
 ### Links
 
