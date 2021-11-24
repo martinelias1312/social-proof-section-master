@@ -60,7 +60,7 @@ article p {
     line-height: 1.6em;
 }
 
-/* Aside Ratings */
+/* Ratings */
 .ratings {
     display: flex;
     flex-direction: column;
@@ -94,7 +94,7 @@ article p {
     margin-left: 5em;
 }
 
-/* Aside Stars */
+/* Rating Stars */
 .stars {
     max-width: fit-content;
     margin: 0 2em 0 1em;
